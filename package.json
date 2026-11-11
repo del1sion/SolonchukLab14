@@ -1,0 +1,10 @@
+{
+  "name": "bootstrap-responsive-lab14",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive Bootstrap layouts for web programming lab 14",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2"},
+  "engines": {"node": ">=18"}
+}
